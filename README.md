@@ -6,7 +6,7 @@ This simple project should introduce you to some of the ways we use front end te
   1. Please fork this repository and work on your fork.
      _https://help.github.com/en/articles/fork-a-repo_
   2. Commit changes frequently so that we can review your progression with you later.
-     _https://crealytics.com/blog/5-reasons-keeping-git-commits-small/_
+     _https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6_
   3. The assets you need are in the assets folder.
   4. Put your source code in the `src` folder.
   5. Put your tests in the `test` folder.
@@ -33,6 +33,7 @@ See the video below to see the interaction design.
 
 Please use the following websites for guidance:
 
+* https://modern-web.dev/
 * https://open-wc.org/
 * https://lit-element.polymer-project.org/
 * https://lit-html.polymer-project.org/
